@@ -1,0 +1,8 @@
+.change_size_me{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.changePointer{
+    cursor: pointer;
+}
